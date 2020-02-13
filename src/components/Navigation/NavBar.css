@@ -1,0 +1,16 @@
+.Nav{
+    background-color: #101010	;
+  }
+
+
+  .searchInput{
+    widows: 30px !important;
+    margin: 5px;
+    
+  }
+
+  .logo{
+    position: relative;
+    length:60px;
+    width:90px !important
+  }

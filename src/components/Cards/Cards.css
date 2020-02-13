@@ -1,0 +1,19 @@
+.Now_Playing{
+    max-height: auto;
+   background-color: #101010;
+  }
+  .popular{
+    max-height: auto;
+    background-color: #101010;
+  }
+  .Top_Rated{
+    max-height: auto;
+    background-color: #101010;
+  }
+  .title{
+    font-weight: bold;
+  }
+  .Text{
+    color:rgb(160, 156, 156)
+  }
+  

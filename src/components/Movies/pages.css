@@ -1,0 +1,44 @@
+h3 {
+  color: white;
+  font-weight: bold;
+  margin: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h5 {
+  color: white;
+  margin: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.button {
+  width: 120px;
+  text-align: center;
+  align-self: center;
+  font-weight: bold;
+  font-size: medium;
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 18px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.title {
+  margin: 10px;
+  font-size: medium;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.Text {
+  color: whitesmoke;
+  color: rgb(153, 151, 151);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.popular {
+}

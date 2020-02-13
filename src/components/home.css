@@ -1,0 +1,20 @@
+.Now {
+  text-align: center;
+  color: grey;
+}
+
+.Jumbotron {
+  background-color: #101010;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #101010;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
