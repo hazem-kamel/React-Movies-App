@@ -1,6 +1,6 @@
 # React Movies App
 
-Project name is a Movies Responsive React App that displays list of movies coming from https://api.themoviedb.org It is also live at Netlify. **https://movies-react-app-tmdb.netlify.com**.
+Movies Responsive React App that displays list of movies coming from https://api.themoviedb.org It is also live at Netlify. **https://movies-react-app-tmdb.netlify.com**.
 
 ## **Prerequisites**
 
